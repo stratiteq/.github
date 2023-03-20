@@ -13,3 +13,4 @@ Link to Azure DevOps Work Item: AB#
 - [ ] Tested
 - [ ] Documented
 - [ ] Changed back to `main` for template namespace.
+- [ ] Removed feature branch connections in `core-Templates`.
